@@ -1,0 +1,26 @@
+<div ng-controller="AreaDefinitionPostalCodeCtl">
+	<div class="crm-group crm-block crm-form-block" ng-form="AreaDefinitionPostalCodeForm" crm-ui-id-scope>
+		<div crm-ui-field="{name: 'AreaDefinitionPostalCodeForm.country', title: ts('Country'), required: true}">
+			<input crm-entityref="{entity: 'Country', select: {allowClear:true}}" ng-required="true" ng-model="areaDefinition.country_id" />
+    </div>
+		<div crm-ui-field="{name: 'AreaDefinitionPostalCodeForm.postal_code', title: ts('Postal code'), required: true}">
+  		<input
+    		crm-ui-id="AreaDefinitionPostalCodeForm.postal_code"
+      	type="text"
+      	name="postal_code"
+      	ng-model="areaDefinition.postal_code"
+      	class="big crm-form-text"
+      	required
+    	/>
+  	</div>    
+
+	</div>
+	
+	<div class="ui-dialog-buttonpane ui-widget-content ui-helper-clearfix">
+		<div class="ui-dialog-buttonset">
+			<button crm-icon="fa-check" ng-click="save()" ng-disabled="AreaDefinitionPostalCodeForm.$invalid">{{ts('Save and Close')}}</button>
+			<button crm-icon="fa-times" ng-click="cancel()">{{ts('Cancel')}}</button>
+		</div>
+	</div>
+</div>
+	

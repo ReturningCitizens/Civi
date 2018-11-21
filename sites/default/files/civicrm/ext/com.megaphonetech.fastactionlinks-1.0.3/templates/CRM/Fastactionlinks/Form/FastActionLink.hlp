@@ -1,0 +1,47 @@
+{capture assign=advancedSearchURL}{crmURL p='civicrm/contact/search/advanced' q="reset=1"}{/capture}
+{capture assign=profileURL}{crmURL p='civicrm/admin/uf/group' q="reset=1"}{/capture}
+{htxt id='id-description-title'}
+  {ts}Description{/ts}
+{/htxt}
+{htxt id='id-description'}
+  {ts}An internal description of this link's use.{/ts}
+{/htxt}
+{htxt id='id-hovertext-title'}
+  {ts}Hover Text{/ts}
+{/htxt}
+{htxt id='id-hovertext'}
+  {ts}This text will display when a user hovers their cursor over the link.  It's a good place to put instructions to the user about when the link should be clicked, or what the link does.{/ts}
+{/htxt}
+{htxt id='id-success_message-title'}
+  {ts}Success Message{/ts}
+{/htxt}
+{htxt id='id-success_message'}
+  {ts}When your action successfully completes, this is the notification your users will see.{/ts}
+{/htxt}
+{htxt id='id-action_type-title'}
+  {ts}Action{/ts}
+{/htxt}
+{htxt id='id-action_type'}
+  {ts}When your link is clicked, it will perform this action.{/ts}
+{/htxt}
+
+{htxt id='id-uf_group_id-title'}
+  {ts}Show on Search View{/ts}
+{/htxt}
+{htxt id='id-uf_group_id'}
+  {ts 1=$advancedSearchURL}To use this link, go to <a href="%1">Advanced Search</a> and select this profile from "Views for Display Contacts".{/ts}<br /><br />{ts 1=$profileURL}If this field displays "None Found", please go to the <a href="%1">Profiles</a> page, select "Settings" next to a profile, click the "Search Views" checkbox and press "Save".{/ts}
+{/htxt}
+
+{htxt id='id-dim_on_use-title'}
+  {ts}Dim on Use{/ts}
+{/htxt}
+{htxt id='id-dim_on_use'}
+  {ts}If this box is checked, the contact will be visually dimmed when the link is clicked.  This helps to indicate which contacts have had an action taken.{/ts}
+{/htxt}
+
+{htxt id='id-confirm-title'}
+  {ts}Confirmation Dialog Box{/ts}
+{/htxt}
+{htxt id='id-confirm'}
+  {ts}If this box is checked, a confirmation dialog box will ask the user to confirm their choice.{/ts}
+{/htxt}

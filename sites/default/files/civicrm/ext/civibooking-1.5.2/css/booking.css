@@ -1,0 +1,23 @@
+td.text-right{
+  text-align: right;
+}
+
+.crm-container fieldset{
+  border-bottom: 1px solid #CFCEC3;
+  border-left: 1px solid #CFCEC3;
+  border-right: 1px solid #CFCEC3;
+}
+
+.crm-section .label {
+  width: 20% !important;
+  padding-right: 10px
+}
+
+.crm-container .crm-section .content {
+  margin-left: 22%;
+}
+
+/*Enable border for dialog box input elements*/
+#crm-booking-dialog input.item {
+  border: 1px solid #aaa;
+}

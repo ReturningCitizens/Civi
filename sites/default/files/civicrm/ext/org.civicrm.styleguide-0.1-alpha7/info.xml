@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<extension key="org.civicrm.styleguide" type="module">
+  <file>styleguide</file>
+  <name>CiviCRM Style Guide</name>
+  <description>Demonstrate common HTMTL/CSS styling conventions used within CiviCRM.</description>
+  <license>AGPL-3.0</license>
+  <maintainer>
+    <author>Alessandro Verdura</author>
+    <email>alessandro@compucorp.co.uk</email>
+  </maintainer>
+  <urls>
+    <url desc="Main Extension Page">https://github.com/civicrm/org.civicrm.styleguide</url>
+    <url desc="Documentation">https://github.com/civicrm/org.civicrm.styleguide</url>
+    <url desc="Support">http://civicrm.stackexchange.com/</url>
+    <url desc="Licensing">http://www.gnu.org/licenses/agpl-3.0.html</url>
+  </urls>
+  <releaseDate>2018-11-14</releaseDate>
+  <version>0.1-alpha7</version>
+  <develStage>alpha</develStage>
+  <compatibility>
+    <ver>4.7</ver>
+  </compatibility>
+  <comments></comments>
+  <civix>
+    <namespace>CRM/StyleGuide</namespace>
+  </civix>
+</extension>

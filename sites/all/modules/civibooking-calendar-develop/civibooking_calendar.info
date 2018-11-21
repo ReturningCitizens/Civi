@@ -1,0 +1,15 @@
+name = Civibooking_calendar
+description = Displays CiviBooking Data on views calender.
+core = 7.x
+version = 7.x-1.0
+
+dependencies[] = civicrm
+dependencies[] = civicrm_entity (>=7.x-2.x-dev)
+dependencies[] = date
+dependencies[] = views
+dependencies[] = calendar
+dependencies[] = entity
+
+files[] = views/includes/civibooking_calendar_date_views_argument_handler.inc
+files[] = views/includes/civibooking_calendar_plugin_row.inc
+files[] = views/includes/civibooking_calendar_plugin_style.inc

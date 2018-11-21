@@ -1,0 +1,20 @@
+<div ng-controller="AreaDefinitionStateProvinceCtl">
+	<div class="crm-group crm-block crm-form-block" ng-form="AreaDefinitionStateProvinceForm" crm-ui-id-scope>
+		<div crm-ui-field="{name: 'AreaDefinitionStateProvinceForm.country', title: ts('Country'), required: true}">
+			<input crm-entityref="{entity: 'Country', select: {allowClear:true}}" ng-required="true" ng-model="areaDefinition.country_id" />
+    </div>
+    <div crm-ui-field="{name: 'AreaDefinitionStateProvinceForm.state_province', title: ts('State/Province'), required: true}">
+			<input crm-entityref="{entity: 'StateProvince', select: {allowClear:true}}" ng-required="true" ng-model="areaDefinition.state_province_id" />
+    </div>
+	</div>
+	
+	<h1>{{AreaDefinitionStateProvinceForm.country_id}}</h1>
+	
+	<div class="ui-dialog-buttonpane ui-widget-content ui-helper-clearfix">
+		<div class="ui-dialog-buttonset">
+			<button crm-icon="fa-check" ng-click="save()" ng-disabled="AreaDefinitionStateProvinceForm.$invalid">{{ts('Save and Close')}}</button>
+			<button crm-icon="fa-times" ng-click="cancel()">{{ts('Cancel')}}</button>
+		</div>
+	</div>
+</div>
+	

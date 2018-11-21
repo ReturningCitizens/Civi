@@ -1,0 +1,35 @@
+<?php
+
+/**
+ * implements hook_views_api
+ */
+function civibooking_calendar_views_api() {
+    return array(
+        'api' => 3,
+        'path' => drupal_get_path('module', 'civibooking_calendar') . '/views',
+    );
+}
+
+/**
+ * implements hook civicrm_alter_drupal_entities
+ *
+ * @param array $whitelist
+ */
+function civibooking_calendar_civicrm_alter_drupal_entities(&$whitelist) {
+    $whitelist['civicrm_booking'] = 'booking';
+    $whitelist['civicrm_booking_slot'] = 'slot';
+}
+
+function get_status_values() {
+  $bookingStatusResult = civicrm_api3('OptionValue', 'get', array(
+    'sequential' => 1,
+    'return' => "label,value",
+    'option_group_id' => "booking_status",
+  ));
+
+  $bookingStatusMap = array();
+  foreach($bookingStatusResult['values'] as $bookingStatus) {
+    $bookingStatusMap[$bookingStatus['value']] = $bookingStatus['label'];
+  }
+  return $bookingStatusMap;
+}

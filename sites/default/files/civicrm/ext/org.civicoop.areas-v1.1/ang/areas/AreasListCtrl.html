@@ -1,0 +1,42 @@
+<!--
+Controller: AreasListCtrl
+Required vars: areas
+-->
+<h1 crm-page-title>{{ts('Areas')}}</h1>
+
+<div class="crm-content-block crm-block">
+
+  <table class="display">
+    <thead>
+    <tr>
+      <th>{{ts('Title')}}</th>
+      <th></th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr ng-repeat="area in areas"
+        class="crm-entity"
+        ng-class-even="'even-row even'"
+        ng-class-odd="'odd-row odd'"
+      >
+      <td>{{area.title}}</td>
+      <td style="white-space: nowrap">
+        <span>
+          <a class="action-item crm-hover-button" ng-href="#/areas/{{area.id}}">
+          	{{ts('Edit')}}
+        	</a>
+          <a class="action-item crm-hover-button"
+             crm-confirm="{type: 'delete', obj: area}"
+             on-yes="deleteArea(area)">
+            {{ts('Delete')}}
+          </a>
+        </span>
+      </td>
+    </tr>
+    </tbody>
+  </table>
+
+  <div class="crm-submit-buttons">
+    <a ng-href="#/areas/new" class="button"><span><i class="crm-i fa-plus-circle"></i> {{ts('New Area')}}</span></a>
+  </div>
+</div>

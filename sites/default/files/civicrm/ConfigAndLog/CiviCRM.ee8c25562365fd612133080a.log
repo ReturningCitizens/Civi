@@ -1,0 +1,38 @@
+Nov 21 12:29:23  [info] Creating canary table
+
+Nov 21 14:54:56  [info] CRM_Admin_Page_ExtensionsUpgrade: Start upgrades
+
+Nov 21 14:54:58  [info] Running task: Upgrade org.civicoop.civirules to revision 1023
+
+Nov 21 14:54:58  [info] Applying update 1023 - remove unwanted managed entities
+Nov 21 14:54:58  [info] Running task: Upgrade org.civicoop.civirules to revision 1023
+
+Nov 21 14:54:59  [info] Running task: Upgrade org.civicoop.civirules to revision 1024
+
+Nov 21 14:54:59  [info] Running task: Upgrade org.civicoop.civirules to revision 1024
+
+Nov 21 14:54:59  [info] Running task: Upgrade org.civicoop.civirules to revision 1025
+
+Nov 21 14:54:59  [info] Applying update 1025 - add LivesInCountry condition to CiviRules
+Nov 21 14:55:00  [info] Running task: Upgrade org.civicoop.civirules to revision 1025
+
+Nov 21 14:55:00  [info] Running task: Upgrade org.civicoop.civirules to revision 1026
+
+Nov 21 14:55:00  [info] Running task: Upgrade org.civicoop.civirules to revision 1026
+
+Nov 21 14:55:01  [info] Running task: Upgrade org.civicoop.civirules to revision 1027
+
+Nov 21 14:55:01  [info] Applying update 1027 - inserting conditions, actions and triggers if required
+Nov 21 14:55:01  [info] Running task: Upgrade org.civicoop.civirules to revision 1027
+
+Nov 21 14:55:02  [info] Running task: Upgrade org.civicoop.civirules to revision 2000
+
+Nov 21 14:55:02  [info] Running task: Upgrade org.civicoop.civirules to revision 2000
+
+Nov 21 14:55:02  [info] Running task: Upgrade org.civicoop.civirules to revision 2010
+
+Nov 21 14:55:02  [info] Applying update 2010 - add Activity Date is .... condition
+Nov 21 14:55:03  [info] Running task: Upgrade org.civicoop.civirules to revision 2010
+
+Nov 21 14:55:03  [info] CRM_Admin_Page_ExtensionsUpgrade: Finish upgrades
+

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+
+<table>
+  <base>CRM/Fastactionlinks</base>
+  <class>FastActionLink</class>
+  <name>civicrm_fast_action_link</name>
+  <comment></comment>
+  <add>4.6</add>
+  <log>true</log>
+
+  <field>
+    <name>id</name>
+    <type>int unsigned</type>
+    <required>true</required>
+    <comment>Unique FastActionLink ID</comment>
+    <add>4.6</add>
+  </field>
+  <primaryKey>
+    <name>id</name>
+    <autoincrement>true</autoincrement>
+  </primaryKey>
+  <field>
+    <name>uf_group_id</name>
+    <title>Profile ID</title>
+    <type>int unsigned</type>
+    <comment>Which profile this link is associated with.  NULL indicates "default search".</comment>
+    <pseudoconstant>
+      <callback>CRM_Fastactionlinks_PseudoConstant::searchViews</callback>
+    </pseudoconstant>
+    <add>4.6</add>
+    <html>
+      <type>Select</type>
+    </html>
+  </field>
+  <foreignKey>
+    <name>uf_group_id</name>
+    <table>civicrm_uf_group</table>
+    <key>id</key>
+    <add>4.6</add>
+    <onDelete>CASCADE</onDelete>
+  </foreignKey>
+  <field>
+    <name>action_type</name>
+    <title>Action Type</title>
+    <type>varchar</type>
+    <length>64</length>
+    <required>true</required>
+    <comment>The action associated with this link. E.g. addToGroup, removeFromGroup.</comment>
+    <pseudoconstant>
+      <callback>CRM_Fastactionlinks_PseudoConstant::actionTypes</callback>
+    </pseudoconstant>
+    <add>4.6</add>
+  </field>
+  <field>
+    <name>label</name>
+    <title>Label</title>
+    <type>varchar</type>
+    <length>32</length>
+    <required>true</required>
+    <comment>This is the displayed text for the link.</comment>
+    <add>4.6</add>
+  </field>
+  <field>
+    <name>description</name>
+    <title>Description<title>
+    <type>varchar</type>
+    <length>255</length>
+    <comment>An internal description of this link.</comment>
+    <add>4.6</add>
+  </field>
+  <field>
+    <name>success_message</name>
+    <title>Success Message</title>
+    <type>varchar</type>
+    <length>255</length>
+    <comment>This is the text in the success message when the link is clicked.</comment>
+    <add>4.6</add>
+  </field>
+  <field>
+    <name>hovertext</name>
+    <title>Hover Text</title>
+    <type>varchar</type>
+    <length>255</length>
+    <comment>This is the text displayed when you hover the mouse over the link.  It's a good place to put instructions.</comment>
+    <add>4.6</add>
+  </field>
+  <field>
+    <name>action_entity_id</name>
+    <title>Action Entity ID</title>
+    <type>int unsigned</type>
+    <comment>If the action requires an entity ID, it is stored here.</comment>
+    <add>4.6</add>
+  </field>
+  <field>
+    <name>dim_on_use</name>
+    <title>Dim on Use</title>
+    <type>boolean</type>
+    <default>1</default>
+    <comment>Should this link be disabled and the corresponding search result dimmed on click?</comment>
+    <add>4.6</add>
+  </field>
+  <field>
+    <name>confirm</name>
+    <title>Confirm</title>
+    <type>boolean</type>
+    <default>0</default>
+    <comment>Pop up a confirmation box when clicking this link?</comment>
+    <add>4.6</add>
+  </field>
+  <field>
+    <name>is_active</name>
+    <title>Action Link Is Active</title>
+    <type>boolean</type>
+    <default>1</default>
+    <comment>Is this link currently active?  If not, do not show.</comment>
+    <add>4.6</add>
+  </field>
+  <field>
+    <name>weight</name>
+    <title>Order</title>
+    <type>int</type>
+    <required>true</required>
+    <default>1</default>
+    <comment>Controls order in which links appear.</comment>
+    <add>4.6</add>
+  </field>
+</table>

@@ -1,0 +1,140 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: nl_NL\n"
+
+#: CRM/Areas/Upgrader/Base.php
+msgid "Upgrade %1 to revision %2"
+msgstr ""
+
+#: Civi/Areas/DefinitionType/CityWithStateProvince.php
+msgid "City with state/province specification"
+msgstr "Stad met Staat/Provincie specificatie"
+
+#: ang/areas/AreaEditCtrl.html
+msgid "Edit area %1"
+msgstr "Bewerk regio %1"
+
+#: ang/areas/AreaEditCtrl.html ang/areas/AreasListCtrl.html
+msgid "New Area"
+msgstr "Nieuwe regio"
+
+#: ang/areas/AreaEditCtrl.html ang/areas/AreasListCtrl.html
+msgid "Title"
+msgstr "Titel"
+
+#: ang/areas/AreaEditCtrl.html
+msgid "Area definitions"
+msgstr "Regio definities"
+
+#: ang/areas/AreaEditCtrl.html
+msgid "Type"
+msgstr "Type"
+
+#: ang/areas/AreaEditCtrl.html
+msgid "Settings"
+msgstr ""
+
+#: ang/areas/AreaEditCtrl.html ang/areas/AreasListCtrl.html
+msgid "Edit"
+msgstr "Bewerken"
+
+#: ang/areas/AreaEditCtrl.html
+msgid "Remove"
+msgstr "Verwijderen"
+
+#: ang/areas/AreaEditCtrl.html
+msgid "- Select type -"
+msgstr "- Selecteer type -"
+
+#: ang/areas/AreaEditCtrl.html
+msgid "Add area definition"
+msgstr "Voeg een regio definitie toe"
+
+#: ang/areas/AreaEditCtrl.html
+msgid "Save"
+msgstr "Opslaan"
+
+#: ang/areas/AreaEditCtrl.html
+msgid "Save and close"
+msgstr "Opslaan en sluiten"
+
+#: ang/areas/AreaEditCtrl.html ang/areas/areaDefinition/CityCtl.html
+#: ang/areas/areaDefinition/CityStateProvinceCtl.html
+#: ang/areas/areaDefinition/CountryCtl.html
+#: ang/areas/areaDefinition/PostalCodeCtl.html
+#: ang/areas/areaDefinition/StateProvinceCtl.html
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: ang/areas/AreaEditCtrl.js ang/areas/AreasListCtrl.js
+#: ang/areas/areaDefinition/AreaDefinitionCityCtl.js
+#: ang/areas/areaDefinition/AreaDefinitionCityStateProvinceCtl.js
+#: ang/areas/areaDefinition/AreaDefinitionCountryCtl.js
+#: ang/areas/areaDefinition/AreaDefinitionPostalCodeCtl.js
+#: ang/areas/areaDefinition/AreaDefinitionStateProvinceCtl.js
+msgid "org.civicoop.areas"
+msgstr ""
+
+#: ang/areas/AreaEditCtrl.js
+msgid "Edit area definition"
+msgstr "Bewerk regio definitie"
+
+#: ang/areas/AreasListCtrl.html
+msgid "Areas"
+msgstr "Regios"
+
+#: ang/areas/AreasListCtrl.html
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: ang/areas/AreasListCtrl.js
+msgid "Error"
+msgstr ""
+
+#: ang/areas/areaDefinition/AreaDefinitionCountryCtl.js
+msgid "Country = %1"
+msgstr "Land = %1"
+
+#: ang/areas/areaDefinition/CityCtl.html
+#: ang/areas/areaDefinition/CityStateProvinceCtl.html
+#: ang/areas/areaDefinition/CountryCtl.html
+#: ang/areas/areaDefinition/PostalCodeCtl.html
+#: ang/areas/areaDefinition/StateProvinceCtl.html
+msgid "Country"
+msgstr "Land"
+
+#: ang/areas/areaDefinition/CityCtl.html
+#: ang/areas/areaDefinition/CityStateProvinceCtl.html
+msgid "City"
+msgstr "Woonplaats"
+
+#: ang/areas/areaDefinition/CityCtl.html
+#: ang/areas/areaDefinition/CityStateProvinceCtl.html
+#: ang/areas/areaDefinition/CountryCtl.html
+#: ang/areas/areaDefinition/PostalCodeCtl.html
+#: ang/areas/areaDefinition/StateProvinceCtl.html
+msgid "Save and Close"
+msgstr "Opslaan en Sluiten"
+
+#: ang/areas/areaDefinition/CityStateProvinceCtl.html
+#: ang/areas/areaDefinition/StateProvinceCtl.html
+msgid "State/Province"
+msgstr "Staat/Provincie"
+
+#: ang/areas/areaDefinition/PostalCodeCtl.html
+msgid "Postal code"
+msgstr "Postcode"
+
+#: areas.php
+msgid "Manage Areas"
+msgstr "Beheer Regios"
