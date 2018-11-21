@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<menu>
+  <item>
+    <path>civicrm/fastactionlink</path>
+    <page_callback>CRM_Fastactionlinks_Page_FastActionLink</page_callback>
+    <title>FastActionLink</title>
+    <access_arguments>access CiviCRM</access_arguments>
+  </item>
+  <item>
+    <path>civicrm/fastactionlink/edit</path>
+    <page_callback>CRM_Fastactionlinks_Form_FastActionLink</page_callback>
+    <title>FastActionLink</title>
+    <access_arguments>access CiviCRM</access_arguments>
+  </item>
+</menu>

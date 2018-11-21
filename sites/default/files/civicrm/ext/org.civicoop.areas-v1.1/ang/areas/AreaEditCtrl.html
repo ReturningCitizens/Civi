@@ -1,0 +1,71 @@
+<!--
+Controller: FormProcessorCtrl
+Required vars: formProcessor
+-->
+<h1 crm-page-title>
+	{{area.id ? ts('Edit area %1', {1: area.title}) : ts('New Area')}}
+</h1>
+
+<form name="editAreaForm" unsaved-warning-form>
+<div class="crm-block crm-form-block" crm-ui-id-scope>
+  <div crm-ui-field="{name: 'editAreaForm.title', title: ts('Title'), required: true}">
+  	<input
+    	crm-ui-id="editAreaForm.title"
+      type="text"
+      name="title"
+      ng-model="area.title"
+      class="big crm-form-text"
+      required
+    />
+  </div>
+  <h2>{{ts('Area definitions')}}</h2>
+  <table>
+  <thead>
+	  <tr>
+	    <th>{{ts('Type')}}</th>
+	    <th>{{ts('Settings')}}</th>
+	    <th></th>
+	  </tr>
+  </thead>
+  <tbody>
+	  <tr ng-repeat="areaDefinition in areaDefinitions" ng-class-even="'crm-entity even-row even'" ng-class-odd="'crm-entity odd-row odd'">
+	    <td>{{areaDefinition.type_label}}</td>
+	    <td>{{areaDefinition.settings_label}}</td>
+	    <td>
+	      <a crm-icon="fa-edit" class="crm-hover-button" ng-click="editAreaDefinition(areaDefinition)" title="{{ts('Edit')}}">{{ts('Edit')}}</a>
+	      <a crm-icon="fa-trash" class="crm-hover-button" ng-click="removeAreaDefinition(areaDefinition)" title="{{ts('Remove')}}">{{ts('Remove')}}</a>
+	    </td>
+	  </tr>
+  </tbody>
+
+  <tfoot>
+	  <tr class="addRow">
+	    <td colspan="4">
+	    	<select
+        crm-ui-id="editAreaForm.type"
+        name="type"
+        ui-jq="select2"
+        ui-options="{dropdownAutoWidth : true, allowClear: true}"
+        ng-model="areaDefinitionType"
+        ng-options="areaDefinitionType as areaDefinitionTypeTitle for (areaDefinitionType, areaDefinitionTypeTitle) in areaDefinitionTypes">
+        <option value="">{{ts('- Select type -')}}</option>
+      </select>
+      <button crm-icon="fa-check" ng-click="addAreaDefinition(areaDefinitionType)">{{ts('Add area definition')}}</button>	    	
+	    </td>
+	  </tr>
+  </tfoot>
+</table>
+	
+	<div class="crm-tasks">
+    <button crm-icon="fa-check" ng-click="save(false);" ng-disabled="editAreaForm.$invalid">
+      {{ts('Save')}}
+    </button>
+    <button crm-icon="fa-check" ng-click="save(true);" ng-disabled="editAreaForm.$invalid">
+      {{ts('Save and close')}}
+    </button>
+    <button crm-icon="fa-times" ng-click="editAreaForm.$setPristine(); goback();">
+      {{ts('Cancel')}}
+    </button>
+	</div>
+</div>
+</form>

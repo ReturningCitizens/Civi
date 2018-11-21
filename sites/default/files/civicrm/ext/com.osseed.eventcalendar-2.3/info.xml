@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<extension key="com.osseed.eventcalendar" type="module">
+  <file>eventcalendar</file>
+  <name>Event Calendar</name>
+  <description>Show CiviCRM Events in Calendar</description>
+  <license>AGPL-3.0</license>
+  <maintainer>
+    <author>OSSeed</author>
+    <email>hello@osseed.com</email>
+  </maintainer>
+  <urls>
+	<url desc="Main Extension Page">https://github.com/osseed/com.osseed.eventcalendar</url>
+	<url desc="Documentation">https://raw.github.com/osseed/com.osseed.eventcalendar/master/README.txt</url>
+</urls>
+  <releaseDate>2018-08-01</releaseDate>
+  <version>2.3</version>
+  <develStage>alpha</develStage>
+  <compatibility>
+    <ver>4.7</ver>
+    <ver>5.3</ver>
+  </compatibility>
+  <comments>Show CiviCRM Event in Calendar</comments>
+  <civix>
+    <namespace>CRM/EventCalendar</namespace>
+  </civix>
+</extension>
