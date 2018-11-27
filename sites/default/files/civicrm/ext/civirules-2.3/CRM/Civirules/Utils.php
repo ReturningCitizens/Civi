@@ -374,7 +374,7 @@ class CRM_Civirules_Utils {
   }
 
   /**
-   * Method to set the operator options
+   * Method to set the date operator options
    *
    * @return array
    */
@@ -390,6 +390,33 @@ class CRM_Civirules_Utils {
     );
   }
 
+  /**
+   * Method to set the generic comparison operators
+   *
+   * @return array
+   */
+  public static function getGenericComparisonOperatorOptions() {
+    return array(
+      'equals',
+      'greater than',
+      'greater than or equal',
+      'less than',
+      'less than or equal',
+      'not equal',
+    );
+  }
+
+  /**
+   * Method to get the CiviCRM version
+   *
+   * @return float
+   * @throws CiviCRM_API3_Exception
+   */
+  public static function getCiviVersion() {
+    $apiVersion = (string) civicrm_api3('Domain', 'getvalue', array('current_domain' => "TRUE", 'return' => 'version'));
+    $civiVersion = (float) substr($apiVersion, 0, 3);
+    return $civiVersion;
+  }
 
 }
 

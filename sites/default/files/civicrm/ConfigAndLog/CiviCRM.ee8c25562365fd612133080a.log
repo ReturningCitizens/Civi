@@ -36,3 +36,2710 @@ Nov 21 14:55:03  [info] Running task: Upgrade org.civicoop.civirules to revision
 
 Nov 21 14:55:03  [info] CRM_Admin_Page_ExtensionsUpgrade: Finish upgrades
 
+Nov 21 15:13:40  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 15:13:40  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 15:13:40  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 15:13:40  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:00:21  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:22:28  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:22:28  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:22:57  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:22:57  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:22:57  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:22:57  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:23:51  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:23:51  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:23:51  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:23:51  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:23:51  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:23:51  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:23:51  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:23:51  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:23:51  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:23:51  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:23:51  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:23:51  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:23:51  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:23:51  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:24:35  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:24:35  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:24:35  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:24:35  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:24:35  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:24:35  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:24:35  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:24:35  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:24:35  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:24:35  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:24:35  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:24:35  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:24:35  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:24:35  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:24:35  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:24:35  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:24:43  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:24:43  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:24:43  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:24:43  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:24:43  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:24:43  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:24:43  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:24:43  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:25:51  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:25:51  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:25:51  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:25:51  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:25:51  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:25:51  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:25:51  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:25:51  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:25:51  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:25:51  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:26:15  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:26:15  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:26:15  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:26:15  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:26:15  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:26:15  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:26:15  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:26:15  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:26:15  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:26:15  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:26:57  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:26:57  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:26:57  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:26:57  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:26:57  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:26:57  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:26:57  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:26:57  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:26:57  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:26:57  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:26:57  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:26:57  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:30:24  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:30:24  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:30:24  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:30:24  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:30:24  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:30:24  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:30:24  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:30:24  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:30:24  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:30:24  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:30:24  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:30:24  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:31:19  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:31:19  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:31:19  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:31:19  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:31:19  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:31:19  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:31:19  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:31:19  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:31:19  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:31:19  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:31:19  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:31:19  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:31:19  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:31:19  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:31:52  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:31:52  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:35:52  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:35:52  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:35:52  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:35:52  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:35:52  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:35:52  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:36:09  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:36:09  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:36:09  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:36:09  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:36:09  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:36:09  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:36:09  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:36:09  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:36:09  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:36:09  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:36:09  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:36:09  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:36:09  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:36:09  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:36:48  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:36:48  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:36:48  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:36:48  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:36:48  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:36:48  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:36:48  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:36:48  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:36:48  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:36:48  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:36:48  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:36:48  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:36:48  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:36:48  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:36:48  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:36:48  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:37:50  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:37:50  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:37:50  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:37:50  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:37:50  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:37:50  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:37:50  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:37:50  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:37:50  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:37:50  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:37:50  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:37:50  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:37:50  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:37:50  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:37:50  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:37:50  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:37:50  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:37:50  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:37:50  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 21 16:37:50  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 23 10:09:09  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 23 10:09:09  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 23 10:09:09  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 23 10:09:09  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 23 10:09:09  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 23 10:09:09  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 23 10:09:09  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 23 10:09:09  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 23 10:09:30  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 23 10:09:30  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 23 10:09:30  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 23 10:09:30  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 23 10:09:30  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 23 10:09:30  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 23 10:09:30  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 23 10:09:30  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 23 10:09:33  [warning] Deprecated function, use CRM_Core_PseudoConstant::getLabel
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 23 10:09:35  [warning] Deprecated function, use CRM_Core_PseudoConstant::getLabel
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 23 13:15:38  [info] Ignoring exception thrown by nullHandler: -19, DB Error: no such field
+
+Nov 23 13:15:38  [info] $backTrace = #0 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Error.php(962): CRM_Core_Error::backtrace("backTrace", TRUE)
+#1 [internal function](): CRM_Core_Error::nullHandler(Object(DB_Error))
+#2 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/PEAR.php(921): call_user_func((Array:2), Object(DB_Error))
+#3 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB.php(985): PEAR_Error->__construct("DB Error: no such field", -19, 16, (Array:2), "\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#4 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/PEAR.php(575): DB_Error->__construct(-19, 16, (Array:2), "\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#5 [internal function](): PEAR->_raiseError(Object(DB_mysqli), NULL, -19, NULL, NULL, "\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...", "DB_Error", TRUE)
+#6 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/PEAR.php(224): call_user_func_array((Array:2), (Array:8))
+#7 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/common.php(1905): PEAR->__call("raiseError", (Array:7))
+#8 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/common.php(1905): PEAR->raiseError(NULL, -19, NULL, NULL, "\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...", "DB_Error", TRUE)
+#9 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/mysqli.php(933): DB_common->raiseError(-19, NULL, NULL, NULL, "1054 ** Unknown column 'contact_a.id' in 'field list'")
+#10 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/mysqli.php(403): DB_mysqli->mysqliRaiseError()
+#11 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/common.php(1216): DB_mysqli->simpleQuery("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#12 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/DataObject.php(2446): DB_common->query("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#13 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/DataObject.php(1635): DB_DataObject->_query("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#14 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/DAO.php(392): DB_DataObject->query("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#15 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/DAO.php(1348): CRM_Core_DAO->query("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...", TRUE)
+#16 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Selector.php(1032): CRM_Core_DAO::executeQuery("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...", (Array:0), FALSE, NULL, FALSE, TRUE, TRUE)
+#17 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Selector.php(893): CRM_Contact_Selector->fillupPrevNextCache(Object(CRM_Utils_Sort), "civicrm search 32fa1e176b02ae9da827b78de0f7a94a_969", 0, 500)
+#18 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Selector/Custom.php(370): CRM_Contact_Selector->buildPrevNextCache(Object(CRM_Utils_Sort))
+#19 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Selector/Controller.php(420): CRM_Contact_Selector_Custom->getRows(4, 0, 50, Object(CRM_Utils_Sort), 1, NULL)
+#20 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Selector/Controller.php(340): CRM_Core_Selector_Controller->getRows(Object(CRM_Contact_Selector_Controller))
+#21 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Form/Search.php(859): CRM_Core_Selector_Controller->run()
+#22 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Form/Search/Custom.php(172): CRM_Contact_Form_Search->postProcess()
+#23 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Form.php(447): CRM_Contact_Form_Search_Custom->postProcess()
+#24 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/QuickForm/Action/Refresh.php(75): CRM_Core_Form->mainProcess()
+#25 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/HTML/QuickForm/Controller.php(203): CRM_Core_QuickForm_Action_Refresh->perform(Object(CRM_Contact_Form_Search_Custom), "refresh")
+#26 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/HTML/QuickForm/Page.php(103): HTML_QuickForm_Controller->handle(Object(CRM_Contact_Form_Search_Custom), "refresh")
+#27 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Controller.php(351): HTML_QuickForm_Page->handle("refresh")
+#28 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Invoke.php(309): CRM_Core_Controller->run((Array:4), (Array:0))
+#29 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Invoke.php(84): CRM_Core_Invoke::runItem((Array:12))
+#30 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Invoke.php(52): CRM_Core_Invoke::_invoke((Array:4))
+#31 /home/ubuntu/workspace/sites/all/modules/civicrm/drupal/civicrm.module(445): CRM_Core_Invoke::invoke((Array:4))
+#32 [internal function](): civicrm_invoke("contact", "search", "custom")
+#33 /home/ubuntu/workspace/includes/menu.inc(527): call_user_func_array("civicrm_invoke", (Array:3))
+#34 /home/ubuntu/workspace/index.php(21): menu_execute_active_handler()
+#35 {main}
+
+
+Nov 23 13:31:46  [info] Ignoring exception thrown by nullHandler: -19, DB Error: no such field
+
+Nov 23 13:31:46  [info] $backTrace = #0 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Error.php(962): CRM_Core_Error::backtrace("backTrace", TRUE)
+#1 [internal function](): CRM_Core_Error::nullHandler(Object(DB_Error))
+#2 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/PEAR.php(921): call_user_func((Array:2), Object(DB_Error))
+#3 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB.php(985): PEAR_Error->__construct("DB Error: no such field", -19, 16, (Array:2), "\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#4 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/PEAR.php(575): DB_Error->__construct(-19, 16, (Array:2), "\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#5 [internal function](): PEAR->_raiseError(Object(DB_mysqli), NULL, -19, NULL, NULL, "\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...", "DB_Error", TRUE)
+#6 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/PEAR.php(224): call_user_func_array((Array:2), (Array:8))
+#7 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/common.php(1905): PEAR->__call("raiseError", (Array:7))
+#8 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/common.php(1905): PEAR->raiseError(NULL, -19, NULL, NULL, "\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...", "DB_Error", TRUE)
+#9 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/mysqli.php(933): DB_common->raiseError(-19, NULL, NULL, NULL, "1054 ** Unknown column 'contact_a.id' in 'field list'")
+#10 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/mysqli.php(403): DB_mysqli->mysqliRaiseError()
+#11 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/common.php(1216): DB_mysqli->simpleQuery("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#12 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/DataObject.php(2446): DB_common->query("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#13 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/DataObject.php(1635): DB_DataObject->_query("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#14 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/DAO.php(392): DB_DataObject->query("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#15 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/DAO.php(1348): CRM_Core_DAO->query("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...", TRUE)
+#16 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Selector.php(1032): CRM_Core_DAO::executeQuery("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...", (Array:0), FALSE, NULL, FALSE, TRUE, TRUE)
+#17 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Selector.php(893): CRM_Contact_Selector->fillupPrevNextCache(Object(CRM_Utils_Sort), "civicrm search 32fa1e176b02ae9da827b78de0f7a94a_969", 0, 500)
+#18 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Selector/Custom.php(370): CRM_Contact_Selector->buildPrevNextCache(Object(CRM_Utils_Sort))
+#19 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Selector/Controller.php(420): CRM_Contact_Selector_Custom->getRows(4, 0, 50, Object(CRM_Utils_Sort), 1, NULL)
+#20 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Selector/Controller.php(340): CRM_Core_Selector_Controller->getRows(Object(CRM_Contact_Selector_Controller))
+#21 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Form/Search.php(859): CRM_Core_Selector_Controller->run()
+#22 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Form/Search/Custom.php(172): CRM_Contact_Form_Search->postProcess()
+#23 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Form/Search.php(701): CRM_Contact_Form_Search_Custom->postProcess()
+#24 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Form/Search/Custom.php(81): CRM_Contact_Form_Search->preProcess()
+#25 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Form.php(543): CRM_Contact_Form_Search_Custom->preProcess()
+#26 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/QuickForm/Action/Display.php(92): CRM_Core_Form->buildForm()
+#27 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/HTML/QuickForm/Controller.php(203): CRM_Core_QuickForm_Action_Display->perform(Object(CRM_Contact_Form_Search_Custom), "display")
+#28 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/HTML/QuickForm/Page.php(103): HTML_QuickForm_Controller->handle(Object(CRM_Contact_Form_Search_Custom), "display")
+#29 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Controller.php(351): HTML_QuickForm_Page->handle("display")
+#30 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Invoke.php(309): CRM_Core_Controller->run((Array:4), (Array:0))
+#31 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Invoke.php(84): CRM_Core_Invoke::runItem((Array:12))
+#32 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Invoke.php(52): CRM_Core_Invoke::_invoke((Array:4))
+#33 /home/ubuntu/workspace/sites/all/modules/civicrm/drupal/civicrm.module(445): CRM_Core_Invoke::invoke((Array:4))
+#34 [internal function](): civicrm_invoke("contact", "search", "custom")
+#35 /home/ubuntu/workspace/includes/menu.inc(527): call_user_func_array("civicrm_invoke", (Array:3))
+#36 /home/ubuntu/workspace/index.php(21): menu_execute_active_handler()
+#37 {main}
+
+
+Nov 23 13:36:39  [info] Ignoring exception thrown by nullHandler: -19, DB Error: no such field
+
+Nov 23 13:36:40  [info] $backTrace = #0 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Error.php(962): CRM_Core_Error::backtrace("backTrace", TRUE)
+#1 [internal function](): CRM_Core_Error::nullHandler(Object(DB_Error))
+#2 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/PEAR.php(921): call_user_func((Array:2), Object(DB_Error))
+#3 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB.php(985): PEAR_Error->__construct("DB Error: no such field", -19, 16, (Array:2), "\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#4 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/PEAR.php(575): DB_Error->__construct(-19, 16, (Array:2), "\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#5 [internal function](): PEAR->_raiseError(Object(DB_mysqli), NULL, -19, NULL, NULL, "\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...", "DB_Error", TRUE)
+#6 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/PEAR.php(224): call_user_func_array((Array:2), (Array:8))
+#7 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/common.php(1905): PEAR->__call("raiseError", (Array:7))
+#8 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/common.php(1905): PEAR->raiseError(NULL, -19, NULL, NULL, "\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...", "DB_Error", TRUE)
+#9 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/mysqli.php(933): DB_common->raiseError(-19, NULL, NULL, NULL, "1054 ** Unknown column 'contact_a.id' in 'field list'")
+#10 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/mysqli.php(403): DB_mysqli->mysqliRaiseError()
+#11 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/common.php(1216): DB_mysqli->simpleQuery("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#12 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/DataObject.php(2446): DB_common->query("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#13 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/DataObject.php(1635): DB_DataObject->_query("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#14 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/DAO.php(392): DB_DataObject->query("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#15 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/DAO.php(1348): CRM_Core_DAO->query("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...", TRUE)
+#16 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Selector.php(1032): CRM_Core_DAO::executeQuery("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...", (Array:0), FALSE, NULL, FALSE, TRUE, TRUE)
+#17 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Selector.php(893): CRM_Contact_Selector->fillupPrevNextCache(Object(CRM_Utils_Sort), "civicrm search 32fa1e176b02ae9da827b78de0f7a94a_969", 0, 500)
+#18 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Selector/Custom.php(370): CRM_Contact_Selector->buildPrevNextCache(Object(CRM_Utils_Sort))
+#19 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Selector/Controller.php(420): CRM_Contact_Selector_Custom->getRows(4, 0, 50, Object(CRM_Utils_Sort), 1, NULL)
+#20 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Selector/Controller.php(340): CRM_Core_Selector_Controller->getRows(Object(CRM_Contact_Selector_Controller))
+#21 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Form/Search.php(859): CRM_Core_Selector_Controller->run()
+#22 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Form/Search/Custom.php(172): CRM_Contact_Form_Search->postProcess()
+#23 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Form/Search.php(701): CRM_Contact_Form_Search_Custom->postProcess()
+#24 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Form/Search/Custom.php(81): CRM_Contact_Form_Search->preProcess()
+#25 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Form.php(543): CRM_Contact_Form_Search_Custom->preProcess()
+#26 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/QuickForm/Action/Display.php(92): CRM_Core_Form->buildForm()
+#27 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/HTML/QuickForm/Controller.php(203): CRM_Core_QuickForm_Action_Display->perform(Object(CRM_Contact_Form_Search_Custom), "display")
+#28 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/HTML/QuickForm/Page.php(103): HTML_QuickForm_Controller->handle(Object(CRM_Contact_Form_Search_Custom), "display")
+#29 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Controller.php(351): HTML_QuickForm_Page->handle("display")
+#30 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Invoke.php(309): CRM_Core_Controller->run((Array:4), (Array:0))
+#31 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Invoke.php(84): CRM_Core_Invoke::runItem((Array:12))
+#32 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Invoke.php(52): CRM_Core_Invoke::_invoke((Array:4))
+#33 /home/ubuntu/workspace/sites/all/modules/civicrm/drupal/civicrm.module(445): CRM_Core_Invoke::invoke((Array:4))
+#34 [internal function](): civicrm_invoke("contact", "search", "custom")
+#35 /home/ubuntu/workspace/includes/menu.inc(527): call_user_func_array("civicrm_invoke", (Array:3))
+#36 /home/ubuntu/workspace/index.php(21): menu_execute_active_handler()
+#37 {main}
+
+
+Nov 23 13:37:13  [info] Ignoring exception thrown by nullHandler: -19, DB Error: no such field
+
+Nov 23 13:37:13  [info] $backTrace = #0 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Error.php(962): CRM_Core_Error::backtrace("backTrace", TRUE)
+#1 [internal function](): CRM_Core_Error::nullHandler(Object(DB_Error))
+#2 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/PEAR.php(921): call_user_func((Array:2), Object(DB_Error))
+#3 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB.php(985): PEAR_Error->__construct("DB Error: no such field", -19, 16, (Array:2), "\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#4 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/PEAR.php(575): DB_Error->__construct(-19, 16, (Array:2), "\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#5 [internal function](): PEAR->_raiseError(Object(DB_mysqli), NULL, -19, NULL, NULL, "\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...", "DB_Error", TRUE)
+#6 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/PEAR.php(224): call_user_func_array((Array:2), (Array:8))
+#7 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/common.php(1905): PEAR->__call("raiseError", (Array:7))
+#8 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/common.php(1905): PEAR->raiseError(NULL, -19, NULL, NULL, "\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...", "DB_Error", TRUE)
+#9 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/mysqli.php(933): DB_common->raiseError(-19, NULL, NULL, NULL, "1054 ** Unknown column 'contact_a.id' in 'field list'")
+#10 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/mysqli.php(403): DB_mysqli->mysqliRaiseError()
+#11 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/common.php(1216): DB_mysqli->simpleQuery("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#12 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/DataObject.php(2446): DB_common->query("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#13 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/DataObject.php(1635): DB_DataObject->_query("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#14 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/DAO.php(392): DB_DataObject->query("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#15 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/DAO.php(1348): CRM_Core_DAO->query("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...", TRUE)
+#16 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Selector.php(1032): CRM_Core_DAO::executeQuery("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...", (Array:0), FALSE, NULL, FALSE, TRUE, TRUE)
+#17 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Selector.php(893): CRM_Contact_Selector->fillupPrevNextCache(Object(CRM_Utils_Sort), "civicrm search 32fa1e176b02ae9da827b78de0f7a94a_969", 0, 500)
+#18 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Selector/Custom.php(370): CRM_Contact_Selector->buildPrevNextCache(Object(CRM_Utils_Sort))
+#19 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Selector/Controller.php(420): CRM_Contact_Selector_Custom->getRows(4, 0, 50, Object(CRM_Utils_Sort), 1, NULL)
+#20 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Selector/Controller.php(340): CRM_Core_Selector_Controller->getRows(Object(CRM_Contact_Selector_Controller))
+#21 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Form/Search.php(859): CRM_Core_Selector_Controller->run()
+#22 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Form/Search/Custom.php(172): CRM_Contact_Form_Search->postProcess()
+#23 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Form/Search.php(701): CRM_Contact_Form_Search_Custom->postProcess()
+#24 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Form/Search/Custom.php(81): CRM_Contact_Form_Search->preProcess()
+#25 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Form.php(543): CRM_Contact_Form_Search_Custom->preProcess()
+#26 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/QuickForm/Action/Display.php(92): CRM_Core_Form->buildForm()
+#27 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/HTML/QuickForm/Controller.php(203): CRM_Core_QuickForm_Action_Display->perform(Object(CRM_Contact_Form_Search_Custom), "display")
+#28 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/HTML/QuickForm/Page.php(103): HTML_QuickForm_Controller->handle(Object(CRM_Contact_Form_Search_Custom), "display")
+#29 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Controller.php(351): HTML_QuickForm_Page->handle("display")
+#30 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Invoke.php(309): CRM_Core_Controller->run((Array:4), (Array:0))
+#31 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Invoke.php(84): CRM_Core_Invoke::runItem((Array:12))
+#32 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Invoke.php(52): CRM_Core_Invoke::_invoke((Array:4))
+#33 /home/ubuntu/workspace/sites/all/modules/civicrm/drupal/civicrm.module(445): CRM_Core_Invoke::invoke((Array:4))
+#34 [internal function](): civicrm_invoke("contact", "search", "custom")
+#35 /home/ubuntu/workspace/includes/menu.inc(527): call_user_func_array("civicrm_invoke", (Array:3))
+#36 /home/ubuntu/workspace/index.php(21): menu_execute_active_handler()
+#37 {main}
+
+
+Nov 23 13:54:58  [info] Ignoring exception thrown by nullHandler: -19, DB Error: no such field
+
+Nov 23 13:54:58  [info] $backTrace = #0 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Error.php(962): CRM_Core_Error::backtrace("backTrace", TRUE)
+#1 [internal function](): CRM_Core_Error::nullHandler(Object(DB_Error))
+#2 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/PEAR.php(921): call_user_func((Array:2), Object(DB_Error))
+#3 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB.php(985): PEAR_Error->__construct("DB Error: no such field", -19, 16, (Array:2), "\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#4 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/PEAR.php(575): DB_Error->__construct(-19, 16, (Array:2), "\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#5 [internal function](): PEAR->_raiseError(Object(DB_mysqli), NULL, -19, NULL, NULL, "\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...", "DB_Error", TRUE)
+#6 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/PEAR.php(224): call_user_func_array((Array:2), (Array:8))
+#7 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/common.php(1905): PEAR->__call("raiseError", (Array:7))
+#8 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/common.php(1905): PEAR->raiseError(NULL, -19, NULL, NULL, "\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...", "DB_Error", TRUE)
+#9 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/mysqli.php(933): DB_common->raiseError(-19, NULL, NULL, NULL, "1054 ** Unknown column 'contact_a.id' in 'field list'")
+#10 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/mysqli.php(403): DB_mysqli->mysqliRaiseError()
+#11 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/common.php(1216): DB_mysqli->simpleQuery("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#12 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/DataObject.php(2446): DB_common->query("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#13 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/DataObject.php(1635): DB_DataObject->_query("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#14 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/DAO.php(392): DB_DataObject->query("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#15 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/DAO.php(1348): CRM_Core_DAO->query("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...", TRUE)
+#16 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Selector.php(1032): CRM_Core_DAO::executeQuery("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...", (Array:0), FALSE, NULL, FALSE, TRUE, TRUE)
+#17 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Selector.php(893): CRM_Contact_Selector->fillupPrevNextCache(Object(CRM_Utils_Sort), "civicrm search 32fa1e176b02ae9da827b78de0f7a94a_969", 0, 500)
+#18 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Selector/Custom.php(370): CRM_Contact_Selector->buildPrevNextCache(Object(CRM_Utils_Sort))
+#19 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Selector/Controller.php(420): CRM_Contact_Selector_Custom->getRows(4, 0, 50, Object(CRM_Utils_Sort), 1, NULL)
+#20 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Selector/Controller.php(340): CRM_Core_Selector_Controller->getRows(Object(CRM_Contact_Selector_Controller))
+#21 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Form/Search.php(859): CRM_Core_Selector_Controller->run()
+#22 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Form/Search/Custom.php(172): CRM_Contact_Form_Search->postProcess()
+#23 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Form/Search.php(701): CRM_Contact_Form_Search_Custom->postProcess()
+#24 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Form/Search/Custom.php(81): CRM_Contact_Form_Search->preProcess()
+#25 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Form.php(543): CRM_Contact_Form_Search_Custom->preProcess()
+#26 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/QuickForm/Action/Display.php(92): CRM_Core_Form->buildForm()
+#27 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/HTML/QuickForm/Controller.php(203): CRM_Core_QuickForm_Action_Display->perform(Object(CRM_Contact_Form_Search_Custom), "display")
+#28 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/HTML/QuickForm/Page.php(103): HTML_QuickForm_Controller->handle(Object(CRM_Contact_Form_Search_Custom), "display")
+#29 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Controller.php(351): HTML_QuickForm_Page->handle("display")
+#30 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Invoke.php(309): CRM_Core_Controller->run((Array:4), (Array:0))
+#31 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Invoke.php(84): CRM_Core_Invoke::runItem((Array:12))
+#32 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Invoke.php(52): CRM_Core_Invoke::_invoke((Array:4))
+#33 /home/ubuntu/workspace/sites/all/modules/civicrm/drupal/civicrm.module(445): CRM_Core_Invoke::invoke((Array:4))
+#34 [internal function](): civicrm_invoke("contact", "search", "custom")
+#35 /home/ubuntu/workspace/includes/menu.inc(527): call_user_func_array("civicrm_invoke", (Array:3))
+#36 /home/ubuntu/workspace/index.php(21): menu_execute_active_handler()
+#37 {main}
+
+
+Nov 23 13:55:25  [info] Ignoring exception thrown by nullHandler: -19, DB Error: no such field
+
+Nov 23 13:55:25  [info] $backTrace = #0 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Error.php(962): CRM_Core_Error::backtrace("backTrace", TRUE)
+#1 [internal function](): CRM_Core_Error::nullHandler(Object(DB_Error))
+#2 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/PEAR.php(921): call_user_func((Array:2), Object(DB_Error))
+#3 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB.php(985): PEAR_Error->__construct("DB Error: no such field", -19, 16, (Array:2), "\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#4 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/PEAR.php(575): DB_Error->__construct(-19, 16, (Array:2), "\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#5 [internal function](): PEAR->_raiseError(Object(DB_mysqli), NULL, -19, NULL, NULL, "\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...", "DB_Error", TRUE)
+#6 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/PEAR.php(224): call_user_func_array((Array:2), (Array:8))
+#7 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/common.php(1905): PEAR->__call("raiseError", (Array:7))
+#8 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/common.php(1905): PEAR->raiseError(NULL, -19, NULL, NULL, "\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...", "DB_Error", TRUE)
+#9 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/mysqli.php(933): DB_common->raiseError(-19, NULL, NULL, NULL, "1054 ** Unknown column 'contact_a.id' in 'field list'")
+#10 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/mysqli.php(403): DB_mysqli->mysqliRaiseError()
+#11 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/common.php(1216): DB_mysqli->simpleQuery("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#12 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/DataObject.php(2446): DB_common->query("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#13 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/DataObject.php(1635): DB_DataObject->_query("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#14 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/DAO.php(392): DB_DataObject->query("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#15 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/DAO.php(1348): CRM_Core_DAO->query("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...", TRUE)
+#16 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Selector.php(1032): CRM_Core_DAO::executeQuery("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...", (Array:0), FALSE, NULL, FALSE, TRUE, TRUE)
+#17 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Selector.php(893): CRM_Contact_Selector->fillupPrevNextCache(Object(CRM_Utils_Sort), "civicrm search 32fa1e176b02ae9da827b78de0f7a94a_969", 0, 500)
+#18 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Selector/Custom.php(370): CRM_Contact_Selector->buildPrevNextCache(Object(CRM_Utils_Sort))
+#19 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Selector/Controller.php(420): CRM_Contact_Selector_Custom->getRows(4, 0, 50, Object(CRM_Utils_Sort), 1, NULL)
+#20 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Selector/Controller.php(340): CRM_Core_Selector_Controller->getRows(Object(CRM_Contact_Selector_Controller))
+#21 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Form/Search.php(859): CRM_Core_Selector_Controller->run()
+#22 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Form/Search/Custom.php(172): CRM_Contact_Form_Search->postProcess()
+#23 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Form/Search.php(701): CRM_Contact_Form_Search_Custom->postProcess()
+#24 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Form/Search/Custom.php(81): CRM_Contact_Form_Search->preProcess()
+#25 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Form.php(543): CRM_Contact_Form_Search_Custom->preProcess()
+#26 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/QuickForm/Action/Display.php(92): CRM_Core_Form->buildForm()
+#27 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/HTML/QuickForm/Controller.php(203): CRM_Core_QuickForm_Action_Display->perform(Object(CRM_Contact_Form_Search_Custom), "display")
+#28 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/HTML/QuickForm/Page.php(103): HTML_QuickForm_Controller->handle(Object(CRM_Contact_Form_Search_Custom), "display")
+#29 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Controller.php(351): HTML_QuickForm_Page->handle("display")
+#30 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Invoke.php(309): CRM_Core_Controller->run((Array:4), (Array:0))
+#31 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Invoke.php(84): CRM_Core_Invoke::runItem((Array:12))
+#32 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Invoke.php(52): CRM_Core_Invoke::_invoke((Array:4))
+#33 /home/ubuntu/workspace/sites/all/modules/civicrm/drupal/civicrm.module(445): CRM_Core_Invoke::invoke((Array:4))
+#34 [internal function](): civicrm_invoke("contact", "search", "custom")
+#35 /home/ubuntu/workspace/includes/menu.inc(527): call_user_func_array("civicrm_invoke", (Array:3))
+#36 /home/ubuntu/workspace/index.php(21): menu_execute_active_handler()
+#37 {main}
+
+
+Nov 23 13:57:20  [info] Ignoring exception thrown by nullHandler: -19, DB Error: no such field
+
+Nov 23 13:57:20  [info] $backTrace = #0 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Error.php(962): CRM_Core_Error::backtrace("backTrace", TRUE)
+#1 [internal function](): CRM_Core_Error::nullHandler(Object(DB_Error))
+#2 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/PEAR.php(921): call_user_func((Array:2), Object(DB_Error))
+#3 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB.php(985): PEAR_Error->__construct("DB Error: no such field", -19, 16, (Array:2), "\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#4 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/PEAR.php(575): DB_Error->__construct(-19, 16, (Array:2), "\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#5 [internal function](): PEAR->_raiseError(Object(DB_mysqli), NULL, -19, NULL, NULL, "\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...", "DB_Error", TRUE)
+#6 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/PEAR.php(224): call_user_func_array((Array:2), (Array:8))
+#7 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/common.php(1905): PEAR->__call("raiseError", (Array:7))
+#8 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/common.php(1905): PEAR->raiseError(NULL, -19, NULL, NULL, "\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...", "DB_Error", TRUE)
+#9 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/mysqli.php(933): DB_common->raiseError(-19, NULL, NULL, NULL, "1054 ** Unknown column 'contact_a.id' in 'field list'")
+#10 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/mysqli.php(403): DB_mysqli->mysqliRaiseError()
+#11 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/common.php(1216): DB_mysqli->simpleQuery("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#12 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/DataObject.php(2446): DB_common->query("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#13 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/DataObject.php(1635): DB_DataObject->_query("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#14 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/DAO.php(392): DB_DataObject->query("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#15 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/DAO.php(1348): CRM_Core_DAO->query("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...", TRUE)
+#16 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Selector.php(1032): CRM_Core_DAO::executeQuery("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...", (Array:0), FALSE, NULL, FALSE, TRUE, TRUE)
+#17 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Selector.php(893): CRM_Contact_Selector->fillupPrevNextCache(Object(CRM_Utils_Sort), "civicrm search 32fa1e176b02ae9da827b78de0f7a94a_969", 0, 500)
+#18 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Selector/Custom.php(370): CRM_Contact_Selector->buildPrevNextCache(Object(CRM_Utils_Sort))
+#19 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Selector/Controller.php(420): CRM_Contact_Selector_Custom->getRows(4, 0, 50, Object(CRM_Utils_Sort), 1, NULL)
+#20 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Selector/Controller.php(340): CRM_Core_Selector_Controller->getRows(Object(CRM_Contact_Selector_Controller))
+#21 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Form/Search.php(859): CRM_Core_Selector_Controller->run()
+#22 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Form/Search/Custom.php(172): CRM_Contact_Form_Search->postProcess()
+#23 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Form/Search.php(701): CRM_Contact_Form_Search_Custom->postProcess()
+#24 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Form/Search/Custom.php(81): CRM_Contact_Form_Search->preProcess()
+#25 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Form.php(543): CRM_Contact_Form_Search_Custom->preProcess()
+#26 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/QuickForm/Action/Display.php(92): CRM_Core_Form->buildForm()
+#27 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/HTML/QuickForm/Controller.php(203): CRM_Core_QuickForm_Action_Display->perform(Object(CRM_Contact_Form_Search_Custom), "display")
+#28 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/HTML/QuickForm/Page.php(103): HTML_QuickForm_Controller->handle(Object(CRM_Contact_Form_Search_Custom), "display")
+#29 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Controller.php(351): HTML_QuickForm_Page->handle("display")
+#30 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Invoke.php(309): CRM_Core_Controller->run((Array:4), (Array:0))
+#31 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Invoke.php(84): CRM_Core_Invoke::runItem((Array:12))
+#32 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Invoke.php(52): CRM_Core_Invoke::_invoke((Array:4))
+#33 /home/ubuntu/workspace/sites/all/modules/civicrm/drupal/civicrm.module(445): CRM_Core_Invoke::invoke((Array:4))
+#34 [internal function](): civicrm_invoke("contact", "search", "custom")
+#35 /home/ubuntu/workspace/includes/menu.inc(527): call_user_func_array("civicrm_invoke", (Array:3))
+#36 /home/ubuntu/workspace/index.php(21): menu_execute_active_handler()
+#37 {main}
+
+
+Nov 23 13:59:48  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 23 13:59:48  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 23 13:59:48  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 23 13:59:48  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 23 13:59:48  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 23 13:59:48  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 23 13:59:48  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 23 13:59:48  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 23 13:59:48  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 23 13:59:48  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 23 14:00:13  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 23 14:00:13  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 23 14:00:13  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 23 14:00:13  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 23 14:00:13  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 23 14:00:13  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 23 14:00:13  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 23 14:00:13  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 13:16:28  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 13:16:28  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 13:16:28  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 13:16:28  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 13:16:55  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 13:16:55  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 13:16:55  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 13:16:55  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 13:16:55  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 13:16:55  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 13:16:55  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 13:16:55  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 13:17:58  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 13:17:58  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 13:17:58  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 13:17:58  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 13:17:58  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 13:17:58  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 13:17:58  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 13:17:58  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 15:49:10  [info] Ignoring exception thrown by nullHandler: -19, DB Error: no such field
+
+Nov 26 15:49:10  [info] $backTrace = #0 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Error.php(962): CRM_Core_Error::backtrace("backTrace", TRUE)
+#1 [internal function](): CRM_Core_Error::nullHandler(Object(DB_Error))
+#2 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/PEAR.php(921): call_user_func((Array:2), Object(DB_Error))
+#3 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB.php(985): PEAR_Error->__construct("DB Error: no such field", -19, 16, (Array:2), "\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#4 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/PEAR.php(575): DB_Error->__construct(-19, 16, (Array:2), "\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#5 [internal function](): PEAR->_raiseError(Object(DB_mysqli), NULL, -19, NULL, NULL, "\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...", "DB_Error", TRUE)
+#6 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/PEAR.php(224): call_user_func_array((Array:2), (Array:8))
+#7 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/common.php(1905): PEAR->__call("raiseError", (Array:7))
+#8 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/common.php(1905): PEAR->raiseError(NULL, -19, NULL, NULL, "\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...", "DB_Error", TRUE)
+#9 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/mysqli.php(933): DB_common->raiseError(-19, NULL, NULL, NULL, "1054 ** Unknown column 'contact_a.id' in 'field list'")
+#10 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/mysqli.php(403): DB_mysqli->mysqliRaiseError()
+#11 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/common.php(1216): DB_mysqli->simpleQuery("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#12 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/DataObject.php(2446): DB_common->query("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#13 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/DataObject.php(1635): DB_DataObject->_query("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#14 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/DAO.php(392): DB_DataObject->query("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#15 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/DAO.php(1348): CRM_Core_DAO->query("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...", TRUE)
+#16 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Selector.php(1032): CRM_Core_DAO::executeQuery("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...", (Array:0), FALSE, NULL, FALSE, TRUE, TRUE)
+#17 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Selector.php(893): CRM_Contact_Selector->fillupPrevNextCache(Object(CRM_Utils_Sort), "civicrm search 32fa1e176b02ae9da827b78de0f7a94a_2678", 0, 500)
+#18 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Selector/Custom.php(370): CRM_Contact_Selector->buildPrevNextCache(Object(CRM_Utils_Sort))
+#19 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Selector/Controller.php(420): CRM_Contact_Selector_Custom->getRows(4, 0, 50, Object(CRM_Utils_Sort), 1, NULL)
+#20 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Selector/Controller.php(340): CRM_Core_Selector_Controller->getRows(Object(CRM_Contact_Selector_Controller))
+#21 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Form/Search.php(859): CRM_Core_Selector_Controller->run()
+#22 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Form/Search/Custom.php(172): CRM_Contact_Form_Search->postProcess()
+#23 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Form.php(447): CRM_Contact_Form_Search_Custom->postProcess()
+#24 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/QuickForm/Action/Refresh.php(75): CRM_Core_Form->mainProcess()
+#25 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/HTML/QuickForm/Controller.php(203): CRM_Core_QuickForm_Action_Refresh->perform(Object(CRM_Contact_Form_Search_Custom), "refresh")
+#26 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/HTML/QuickForm/Page.php(103): HTML_QuickForm_Controller->handle(Object(CRM_Contact_Form_Search_Custom), "refresh")
+#27 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Controller.php(351): HTML_QuickForm_Page->handle("refresh")
+#28 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Invoke.php(309): CRM_Core_Controller->run((Array:4), (Array:0))
+#29 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Invoke.php(84): CRM_Core_Invoke::runItem((Array:12))
+#30 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Invoke.php(52): CRM_Core_Invoke::_invoke((Array:4))
+#31 /home/ubuntu/workspace/sites/all/modules/civicrm/drupal/civicrm.module(445): CRM_Core_Invoke::invoke((Array:4))
+#32 [internal function](): civicrm_invoke("contact", "search", "custom")
+#33 /home/ubuntu/workspace/includes/menu.inc(527): call_user_func_array("civicrm_invoke", (Array:3))
+#34 /home/ubuntu/workspace/index.php(21): menu_execute_active_handler()
+#35 {main}
+
+
+Nov 26 15:52:21  [info] Ignoring exception thrown by nullHandler: -19, DB Error: no such field
+
+Nov 26 15:52:21  [info] $backTrace = #0 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Error.php(962): CRM_Core_Error::backtrace("backTrace", TRUE)
+#1 [internal function](): CRM_Core_Error::nullHandler(Object(DB_Error))
+#2 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/PEAR.php(921): call_user_func((Array:2), Object(DB_Error))
+#3 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB.php(985): PEAR_Error->__construct("DB Error: no such field", -19, 16, (Array:2), "\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#4 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/PEAR.php(575): DB_Error->__construct(-19, 16, (Array:2), "\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#5 [internal function](): PEAR->_raiseError(Object(DB_mysqli), NULL, -19, NULL, NULL, "\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...", "DB_Error", TRUE)
+#6 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/PEAR.php(224): call_user_func_array((Array:2), (Array:8))
+#7 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/common.php(1905): PEAR->__call("raiseError", (Array:7))
+#8 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/common.php(1905): PEAR->raiseError(NULL, -19, NULL, NULL, "\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...", "DB_Error", TRUE)
+#9 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/mysqli.php(933): DB_common->raiseError(-19, NULL, NULL, NULL, "1054 ** Unknown column 'contact_a.id' in 'field list'")
+#10 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/mysqli.php(403): DB_mysqli->mysqliRaiseError()
+#11 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/common.php(1216): DB_mysqli->simpleQuery("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#12 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/DataObject.php(2446): DB_common->query("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#13 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/DataObject.php(1635): DB_DataObject->_query("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#14 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/DAO.php(392): DB_DataObject->query("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#15 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/DAO.php(1348): CRM_Core_DAO->query("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...", TRUE)
+#16 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Selector.php(1032): CRM_Core_DAO::executeQuery("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...", (Array:0), FALSE, NULL, FALSE, TRUE, TRUE)
+#17 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Selector.php(893): CRM_Contact_Selector->fillupPrevNextCache(Object(CRM_Utils_Sort), "civicrm search 32fa1e176b02ae9da827b78de0f7a94a_1211", 0, 500)
+#18 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Selector/Custom.php(370): CRM_Contact_Selector->buildPrevNextCache(Object(CRM_Utils_Sort))
+#19 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Selector/Controller.php(420): CRM_Contact_Selector_Custom->getRows(4, 0, 50, Object(CRM_Utils_Sort), 1, NULL)
+#20 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Selector/Controller.php(340): CRM_Core_Selector_Controller->getRows(Object(CRM_Contact_Selector_Controller))
+#21 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Form/Search.php(859): CRM_Core_Selector_Controller->run()
+#22 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Form/Search/Custom.php(172): CRM_Contact_Form_Search->postProcess()
+#23 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Form.php(447): CRM_Contact_Form_Search_Custom->postProcess()
+#24 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/QuickForm/Action/Refresh.php(75): CRM_Core_Form->mainProcess()
+#25 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/HTML/QuickForm/Controller.php(203): CRM_Core_QuickForm_Action_Refresh->perform(Object(CRM_Contact_Form_Search_Custom), "refresh")
+#26 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/HTML/QuickForm/Page.php(103): HTML_QuickForm_Controller->handle(Object(CRM_Contact_Form_Search_Custom), "refresh")
+#27 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Controller.php(351): HTML_QuickForm_Page->handle("refresh")
+#28 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Invoke.php(309): CRM_Core_Controller->run((Array:4), (Array:0))
+#29 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Invoke.php(84): CRM_Core_Invoke::runItem((Array:12))
+#30 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Invoke.php(52): CRM_Core_Invoke::_invoke((Array:4))
+#31 /home/ubuntu/workspace/sites/all/modules/civicrm/drupal/civicrm.module(445): CRM_Core_Invoke::invoke((Array:4))
+#32 [internal function](): civicrm_invoke("contact", "search", "custom")
+#33 /home/ubuntu/workspace/includes/menu.inc(527): call_user_func_array("civicrm_invoke", (Array:3))
+#34 /home/ubuntu/workspace/index.php(21): menu_execute_active_handler()
+#35 {main}
+
+
+Nov 26 15:53:33  [info] Ignoring exception thrown by nullHandler: -19, DB Error: no such field
+
+Nov 26 15:53:33  [info] $backTrace = #0 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Error.php(962): CRM_Core_Error::backtrace("backTrace", TRUE)
+#1 [internal function](): CRM_Core_Error::nullHandler(Object(DB_Error))
+#2 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/PEAR.php(921): call_user_func((Array:2), Object(DB_Error))
+#3 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB.php(985): PEAR_Error->__construct("DB Error: no such field", -19, 16, (Array:2), "\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#4 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/PEAR.php(575): DB_Error->__construct(-19, 16, (Array:2), "\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#5 [internal function](): PEAR->_raiseError(Object(DB_mysqli), NULL, -19, NULL, NULL, "\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...", "DB_Error", TRUE)
+#6 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/PEAR.php(224): call_user_func_array((Array:2), (Array:8))
+#7 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/common.php(1905): PEAR->__call("raiseError", (Array:7))
+#8 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/common.php(1905): PEAR->raiseError(NULL, -19, NULL, NULL, "\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...", "DB_Error", TRUE)
+#9 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/mysqli.php(933): DB_common->raiseError(-19, NULL, NULL, NULL, "1054 ** Unknown column 'contact_a.id' in 'field list'")
+#10 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/mysqli.php(403): DB_mysqli->mysqliRaiseError()
+#11 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/common.php(1216): DB_mysqli->simpleQuery("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#12 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/DataObject.php(2446): DB_common->query("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#13 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/DataObject.php(1635): DB_DataObject->_query("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#14 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/DAO.php(392): DB_DataObject->query("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#15 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/DAO.php(1348): CRM_Core_DAO->query("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...", TRUE)
+#16 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Selector.php(1032): CRM_Core_DAO::executeQuery("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...", (Array:0), FALSE, NULL, FALSE, TRUE, TRUE)
+#17 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Selector.php(893): CRM_Contact_Selector->fillupPrevNextCache(Object(CRM_Utils_Sort), "civicrm search 32fa1e176b02ae9da827b78de0f7a94a_1211", 0, 500)
+#18 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Selector/Custom.php(370): CRM_Contact_Selector->buildPrevNextCache(Object(CRM_Utils_Sort))
+#19 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Selector/Controller.php(420): CRM_Contact_Selector_Custom->getRows(4, 0, 50, Object(CRM_Utils_Sort), 1, NULL)
+#20 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Selector/Controller.php(340): CRM_Core_Selector_Controller->getRows(Object(CRM_Contact_Selector_Controller))
+#21 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Form/Search.php(859): CRM_Core_Selector_Controller->run()
+#22 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Form/Search/Custom.php(172): CRM_Contact_Form_Search->postProcess()
+#23 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Form/Search.php(701): CRM_Contact_Form_Search_Custom->postProcess()
+#24 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Form/Search/Custom.php(81): CRM_Contact_Form_Search->preProcess()
+#25 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Form.php(543): CRM_Contact_Form_Search_Custom->preProcess()
+#26 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/QuickForm/Action/Display.php(92): CRM_Core_Form->buildForm()
+#27 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/HTML/QuickForm/Controller.php(203): CRM_Core_QuickForm_Action_Display->perform(Object(CRM_Contact_Form_Search_Custom), "display")
+#28 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/HTML/QuickForm/Page.php(103): HTML_QuickForm_Controller->handle(Object(CRM_Contact_Form_Search_Custom), "display")
+#29 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Controller.php(351): HTML_QuickForm_Page->handle("display")
+#30 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Invoke.php(309): CRM_Core_Controller->run((Array:4), (Array:0))
+#31 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Invoke.php(84): CRM_Core_Invoke::runItem((Array:12))
+#32 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Invoke.php(52): CRM_Core_Invoke::_invoke((Array:4))
+#33 /home/ubuntu/workspace/sites/all/modules/civicrm/drupal/civicrm.module(445): CRM_Core_Invoke::invoke((Array:4))
+#34 [internal function](): civicrm_invoke("contact", "search", "custom")
+#35 /home/ubuntu/workspace/includes/menu.inc(527): call_user_func_array("civicrm_invoke", (Array:3))
+#36 /home/ubuntu/workspace/index.php(21): menu_execute_active_handler()
+#37 {main}
+
+
+Nov 26 15:55:59  [info] Ignoring exception thrown by nullHandler: -19, DB Error: no such field
+
+Nov 26 15:55:59  [info] $backTrace = #0 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Error.php(962): CRM_Core_Error::backtrace("backTrace", TRUE)
+#1 [internal function](): CRM_Core_Error::nullHandler(Object(DB_Error))
+#2 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/PEAR.php(921): call_user_func((Array:2), Object(DB_Error))
+#3 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB.php(985): PEAR_Error->__construct("DB Error: no such field", -19, 16, (Array:2), "\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#4 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/PEAR.php(575): DB_Error->__construct(-19, 16, (Array:2), "\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#5 [internal function](): PEAR->_raiseError(Object(DB_mysqli), NULL, -19, NULL, NULL, "\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...", "DB_Error", TRUE)
+#6 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/PEAR.php(224): call_user_func_array((Array:2), (Array:8))
+#7 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/common.php(1905): PEAR->__call("raiseError", (Array:7))
+#8 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/common.php(1905): PEAR->raiseError(NULL, -19, NULL, NULL, "\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...", "DB_Error", TRUE)
+#9 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/mysqli.php(933): DB_common->raiseError(-19, NULL, NULL, NULL, "1054 ** Unknown column 'contact_a.id' in 'field list'")
+#10 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/mysqli.php(403): DB_mysqli->mysqliRaiseError()
+#11 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/common.php(1216): DB_mysqli->simpleQuery("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#12 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/DataObject.php(2446): DB_common->query("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#13 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/DB/DataObject.php(1635): DB_DataObject->_query("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#14 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/DAO.php(392): DB_DataObject->query("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...")
+#15 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/DAO.php(1348): CRM_Core_DAO->query("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...", TRUE)
+#16 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Selector.php(1032): CRM_Core_DAO::executeQuery("\nINSERT INTO civicrm_prevnext_cache ( entity_table, entity_id1, entity_id2, ...", (Array:0), FALSE, NULL, FALSE, TRUE, TRUE)
+#17 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Selector.php(893): CRM_Contact_Selector->fillupPrevNextCache(Object(CRM_Utils_Sort), "civicrm search 32fa1e176b02ae9da827b78de0f7a94a_1211", 0, 500)
+#18 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Selector/Custom.php(370): CRM_Contact_Selector->buildPrevNextCache(Object(CRM_Utils_Sort))
+#19 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Selector/Controller.php(420): CRM_Contact_Selector_Custom->getRows(4, 0, 50, Object(CRM_Utils_Sort), 1, NULL)
+#20 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Selector/Controller.php(340): CRM_Core_Selector_Controller->getRows(Object(CRM_Contact_Selector_Controller))
+#21 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Form/Search.php(859): CRM_Core_Selector_Controller->run()
+#22 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Form/Search/Custom.php(172): CRM_Contact_Form_Search->postProcess()
+#23 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Form/Search.php(701): CRM_Contact_Form_Search_Custom->postProcess()
+#24 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Contact/Form/Search/Custom.php(81): CRM_Contact_Form_Search->preProcess()
+#25 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Form.php(543): CRM_Contact_Form_Search_Custom->preProcess()
+#26 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/QuickForm/Action/Display.php(92): CRM_Core_Form->buildForm()
+#27 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/HTML/QuickForm/Controller.php(203): CRM_Core_QuickForm_Action_Display->perform(Object(CRM_Contact_Form_Search_Custom), "display")
+#28 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/HTML/QuickForm/Page.php(103): HTML_QuickForm_Controller->handle(Object(CRM_Contact_Form_Search_Custom), "display")
+#29 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Controller.php(351): HTML_QuickForm_Page->handle("display")
+#30 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Invoke.php(309): CRM_Core_Controller->run((Array:4), (Array:0))
+#31 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Invoke.php(84): CRM_Core_Invoke::runItem((Array:12))
+#32 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Invoke.php(52): CRM_Core_Invoke::_invoke((Array:4))
+#33 /home/ubuntu/workspace/sites/all/modules/civicrm/drupal/civicrm.module(445): CRM_Core_Invoke::invoke((Array:4))
+#34 [internal function](): civicrm_invoke("contact", "search", "custom")
+#35 /home/ubuntu/workspace/includes/menu.inc(527): call_user_func_array("civicrm_invoke", (Array:3))
+#36 /home/ubuntu/workspace/index.php(21): menu_execute_active_handler()
+#37 {main}
+
+
+Nov 26 16:27:03  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 16:27:03  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 16:27:03  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 16:27:03  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 16:27:03  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 16:27:03  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 16:27:03  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 16:27:03  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 16:27:03  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 16:27:03  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 16:27:03  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 16:27:03  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 16:27:03  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 16:27:03  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 16:27:03  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 16:27:03  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 16:27:03  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 16:27:03  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 16:27:03  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 16:27:03  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 16:27:43  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 16:27:43  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 16:28:35  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 16:28:35  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 16:28:35  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 16:28:35  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 16:29:07  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 16:29:07  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 16:29:32  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 16:29:32  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 16:29:32  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 16:29:32  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 16:29:47  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 16:29:47  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 16:29:47  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 16:29:47  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 16:29:47  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 16:29:47  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 16:29:47  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 16:29:47  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 16:30:11  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 16:30:11  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 16:30:11  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 16:30:11  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 16:30:11  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 16:30:11  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 16:30:11  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 16:30:11  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 16:30:11  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 16:30:11  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 16:32:04  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 16:32:04  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 16:32:04  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 16:32:04  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 16:34:03  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 16:34:03  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 16:34:03  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 16:34:03  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 16:34:03  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 16:34:03  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 16:34:03  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 26 16:34:03  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 27 14:49:28  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 27 14:49:28  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 27 14:49:28  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 27 14:49:28  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 27 14:50:34  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 27 14:50:34  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 27 14:50:34  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 27 14:50:34  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 27 14:50:34  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 27 14:50:34  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 27 14:51:15  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 27 14:51:15  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 27 14:51:15  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 27 14:51:15  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 27 14:53:53  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 27 14:53:53  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 27 14:53:53  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 27 14:53:53  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 27 14:53:53  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 27 14:53:53  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 27 14:57:47  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 27 14:57:47  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 27 14:58:44  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 27 14:58:44  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 27 14:58:44  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 27 14:58:44  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 27 14:58:44  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 27 14:58:44  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 27 14:59:15  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 27 14:59:15  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 27 15:00:03  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 27 15:00:03  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 27 15:00:03  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 27 15:00:03  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 27 15:00:03  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 27 15:00:03  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Nov 27 16:24:43  [info] CRM_Admin_Page_ExtensionsUpgrade: Start upgrades
+
+Nov 27 16:25:05  [info] Running task: Upgrade org.civicoop.civirules to revision 2011
+
+Nov 27 16:25:06  [info] Running task: Upgrade org.civicoop.civirules to revision 2011
+
+Nov 27 16:25:07  [info] Running task: Upgrade org.civicoop.civirules to revision 2012
+
+Nov 27 16:25:07  [info] Applying update 2012 - add xth Contribution condition
+Nov 27 16:25:08  [info] Running task: Upgrade org.civicoop.civirules to revision 2012
+
+Nov 27 16:25:09  [info] Running task: Upgrade org.civicoop.civirules to revision 2013
+
+Nov 27 16:25:09  [info] Applying update 2013 - add Contributon Paid By condition
+Nov 27 16:25:10  [info] Running task: Upgrade org.civicoop.civirules to revision 2013
+
+Nov 27 16:25:11  [info] CRM_Admin_Page_ExtensionsUpgrade: Finish upgrades
+

@@ -83,6 +83,8 @@ INSERT INTO civirule_condition (name, label, class_name, is_active)
 INSERT INTO civirule_condition (name, label, class_name, is_active)
   VALUES('entity_tag_tag_id', 'Tag is', 'CRM_CivirulesConditions_EntityTag_TagId', 1);
 INSERT INTO civirule_condition (name, label, class_name, is_active)
+  VALUES('group_type', 'Group is (not) one of Type(s)', 'CRM_CivirulesConditions_Group_GroupType', 1);
+INSERT INTO civirule_condition (name, label, class_name, is_active)
   VALUES('group_contact_group_id', 'Group is', 'CRM_CivirulesConditions_GroupContact_GroupId', 1);
 INSERT INTO civirule_condition (name, label, class_name, is_active)
   VALUES('active_membership_type', 'Contact has Active Membership of Type', 'CRM_CivirulesConditions_Membership_ActiveMembership', 1);
@@ -112,6 +114,8 @@ INSERT INTO civirule_condition (name, label, class_name, is_active)
   VALUES('activity_is_past_date', 'Activity Date in the Past', 'CRM_CivirulesConditions_Activity_ActivityIsPast', 1);
 INSERT INTO civirule_condition (name, label, class_name, is_active)
   VALUES('activity_date_comparison', 'Activity Date is .....', 'CRM_CivirulesConditions_Activity_Date', 1);
+INSERT INTO civirule_condition (name, label, class_name, is_active)
+  VALUES('xth_contribution_contact', 'xth Contribution of Contact', 'CRM_CivirulesConditions_Contribution_xthContribution', 1);
 
 
 
