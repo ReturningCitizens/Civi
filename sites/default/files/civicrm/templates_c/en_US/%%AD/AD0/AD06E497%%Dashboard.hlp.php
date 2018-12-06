@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.30, created on 2018-11-27 16:26:40
+<?php /* Smarty version 2.6.30, created on 2018-12-03 09:33:58
          compiled from CRM/Contact/Page/Dashboard.hlp */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
 smarty_core_load_plugins(array('plugins' => array(array('block', 'crmScope', 'CRM/Contact/Page/Dashboard.hlp', 1, false),array('block', 'htxt', 'CRM/Contact/Page/Dashboard.hlp', 26, false),array('block', 'ts', 'CRM/Contact/Page/Dashboard.hlp', 27, false),)), $this); ?>

@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.30, created on 2018-11-27 16:24:12
+<?php /* Smarty version 2.6.30, created on 2018-12-03 18:38:01
          compiled from CRM/common/enableDisableApi.tpl */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
 smarty_core_load_plugins(array('plugins' => array(array('block', 'crmScope', 'CRM/common/enableDisableApi.tpl', 1, false),array('block', 'ts', 'CRM/common/enableDisableApi.tpl', 34, false),)), $this); ?>

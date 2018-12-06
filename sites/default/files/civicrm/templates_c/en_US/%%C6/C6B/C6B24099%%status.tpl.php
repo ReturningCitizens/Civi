@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.30, created on 2018-11-27 16:24:12
+<?php /* Smarty version 2.6.30, created on 2018-12-03 09:33:57
          compiled from CRM/common/status.tpl */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
 smarty_core_load_plugins(array('plugins' => array(array('block', 'crmScope', 'CRM/common/status.tpl', 1, false),array('modifier', 'json_encode', 'CRM/common/status.tpl', 36, false),)), $this); ?>

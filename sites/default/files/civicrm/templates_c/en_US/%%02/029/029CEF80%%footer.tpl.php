@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.30, created on 2018-11-27 16:24:14
+<?php /* Smarty version 2.6.30, created on 2018-12-03 09:33:58
          compiled from CRM/common/footer.tpl */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
 smarty_core_load_plugins(array('plugins' => array(array('block', 'crmScope', 'CRM/common/footer.tpl', 1, false),array('block', 'ts', 'CRM/common/footer.tpl', 34, false),array('function', 'crmVersion', 'CRM/common/footer.tpl', 33, false),array('function', 'crmURL', 'CRM/common/footer.tpl', 37, false),array('function', 'docURL', 'CRM/common/footer.tpl', 43, false),)), $this); ?>
