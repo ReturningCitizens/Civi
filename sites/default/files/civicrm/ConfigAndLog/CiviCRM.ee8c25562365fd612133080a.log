@@ -1434,3 +1434,52 @@ Array
 )
 
 
+Dec 06 11:04:50  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 11:04:50  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 11:04:50  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 11:04:50  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 11:04:50  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 11:04:50  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 11:04:53  [warning] Deprecated function, use CRM_Core_PseudoConstant::getLabel
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
