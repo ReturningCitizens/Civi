@@ -1,7 +1,23 @@
 # Ignore configuration files that may contain sensitive information.
-sites/*/settings*.php
-sites/*/civicrm.settings.php
+settings*.php
 
 # Ignore paths that contain user-generated content.
-sites/*/files
-sites/*/private
+files
+private
+
+settings.php
+civicrm.settings.php
+drushrc.php
+files
+
+civiext/cache
+
+.DS_Store
+*~
+\#*\#
+*.swp
+*.mysql
+
+*.tar
+*.gz
+*.zip
