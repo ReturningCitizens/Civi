@@ -1483,3 +1483,587 @@ Array
 )
 
 
+Dec 06 11:20:52  [info] Ignoring exception thrown by nullHandler: 10001, Failed to connect to smtp.gmail.com:465 [SMTP: Invalid response code received from SMTP server while sending email.  This is often caused by a misconfiguration in Outbound Email settings. Please verify the settings at Administer CiviCRM >> Global Settings >> Outbound Email (SMTP). (code: -1, response: )]
+
+Dec 06 11:20:52  [info] $backTrace = #0 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Error.php(962): CRM_Core_Error::backtrace("backTrace", TRUE)
+#1 [internal function](): CRM_Core_Error::nullHandler(Object(PEAR_Error))
+#2 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/PEAR.php(921): call_user_func((Array:2), Object(PEAR_Error))
+#3 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/PEAR.php(577): PEAR_Error->__construct("Failed to connect to smtp.gmail.com:465 [SMTP: Invalid response code received...", 10001, 16, (Array:2), NULL)
+#4 [internal function](): PEAR::_raiseError(NULL, "Failed to connect to smtp.gmail.com:465 [SMTP: Invalid response code received...", 10001)
+#5 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/PEAR.php(237): call_user_func_array((Array:2), (Array:3))
+#6 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/Mail/smtp.php(376): PEAR::__callStatic("raiseError", (Array:2))
+#7 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/Mail/smtp.php(376): PEAR::raiseError("Failed to connect to smtp.gmail.com:465 [SMTP: Invalid response code received...", 10001)
+#8 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/Mail/smtp.php(255): Mail_smtp->getSMTPObject()
+#9 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Admin/Form/Setting/Smtp.php(171): Mail_smtp->send("adam.wheeler@boston.gov", (Array:3), "SMTP settings are correct.")
+#10 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Form.php(447): CRM_Admin_Form_Setting_Smtp->postProcess()
+#11 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/QuickForm/Action/Refresh.php(75): CRM_Core_Form->mainProcess()
+#12 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/HTML/QuickForm/Controller.php(203): CRM_Core_QuickForm_Action_Refresh->perform(Object(CRM_Admin_Form_Setting_Smtp), "refresh")
+#13 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/HTML/QuickForm/Page.php(103): HTML_QuickForm_Controller->handle(Object(CRM_Admin_Form_Setting_Smtp), "refresh")
+#14 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Controller.php(351): HTML_QuickForm_Page->handle("refresh")
+#15 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Utils/Wrapper.php(113): CRM_Core_Controller->run()
+#16 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Invoke.php(283): CRM_Utils_Wrapper->run("CRM_Admin_Form_Setting_Smtp", "Outbound Email Settings", NULL)
+#17 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Invoke.php(84): CRM_Core_Invoke::runItem((Array:15))
+#18 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Invoke.php(52): CRM_Core_Invoke::_invoke((Array:4))
+#19 /home/ubuntu/workspace/sites/all/modules/civicrm/drupal/civicrm.module(445): CRM_Core_Invoke::invoke((Array:4))
+#20 [internal function](): civicrm_invoke("admin", "setting", "smtp")
+#21 /home/ubuntu/workspace/includes/menu.inc(527): call_user_func_array("civicrm_invoke", (Array:3))
+#22 /home/ubuntu/workspace/index.php(21): menu_execute_active_handler()
+#23 {main}
+
+
+Dec 06 11:22:21  [info] Ignoring exception thrown by nullHandler: 110, Connection timed out
+
+Dec 06 11:22:21  [info] $backTrace = #0 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Error.php(962): CRM_Core_Error::backtrace("backTrace", TRUE)
+#1 [internal function](): CRM_Core_Error::nullHandler(Object(PEAR_Error))
+#2 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/PEAR.php(921): call_user_func((Array:2), Object(PEAR_Error))
+#3 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/PEAR.php(577): PEAR_Error->__construct("Connection timed out", 110, 16, (Array:2), NULL)
+#4 [internal function](): PEAR->_raiseError(Object(Net_Socket), "Connection timed out", 110)
+#5 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/PEAR.php(224): call_user_func_array((Array:2), (Array:3))
+#6 /home/ubuntu/workspace/sites/all/modules/civicrm/vendor/pear/net_socket/Net/Socket.php(173): PEAR->__call("raiseError", (Array:2))
+#7 /home/ubuntu/workspace/sites/all/modules/civicrm/vendor/pear/net_socket/Net/Socket.php(173): Net_Socket->raiseError("Connection timed out", 110)
+#8 /home/ubuntu/workspace/sites/all/modules/civicrm/vendor/pear/net_smtp/Net/SMTP.php(449): Net_Socket->connect("smtp.gmail.com", "25", FALSE, 30, NULL)
+#9 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/Mail/smtp.php(372): Net_SMTP->connect(30)
+#10 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/Mail/smtp.php(255): Mail_smtp->getSMTPObject()
+#11 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Admin/Form/Setting/Smtp.php(171): Mail_smtp->send("adam.wheeler@boston.gov", (Array:3), "SMTP settings are correct.")
+#12 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Form.php(447): CRM_Admin_Form_Setting_Smtp->postProcess()
+#13 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/QuickForm/Action/Refresh.php(75): CRM_Core_Form->mainProcess()
+#14 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/HTML/QuickForm/Controller.php(203): CRM_Core_QuickForm_Action_Refresh->perform(Object(CRM_Admin_Form_Setting_Smtp), "refresh")
+#15 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/HTML/QuickForm/Page.php(103): HTML_QuickForm_Controller->handle(Object(CRM_Admin_Form_Setting_Smtp), "refresh")
+#16 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Controller.php(351): HTML_QuickForm_Page->handle("refresh")
+#17 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Utils/Wrapper.php(113): CRM_Core_Controller->run()
+#18 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Invoke.php(283): CRM_Utils_Wrapper->run("CRM_Admin_Form_Setting_Smtp", "Outbound Email Settings", NULL)
+#19 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Invoke.php(84): CRM_Core_Invoke::runItem((Array:15))
+#20 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Invoke.php(52): CRM_Core_Invoke::_invoke((Array:4))
+#21 /home/ubuntu/workspace/sites/all/modules/civicrm/drupal/civicrm.module(445): CRM_Core_Invoke::invoke((Array:4))
+#22 [internal function](): civicrm_invoke("admin", "setting", "smtp")
+#23 /home/ubuntu/workspace/includes/menu.inc(527): call_user_func_array("civicrm_invoke", (Array:3))
+#24 /home/ubuntu/workspace/index.php(21): menu_execute_active_handler()
+#25 {main}
+
+
+Dec 06 11:22:21  [info] Ignoring exception thrown by nullHandler: , Failed to connect socket: Connection timed out
+
+Dec 06 11:22:21  [info] $backTrace = #0 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Error.php(962): CRM_Core_Error::backtrace("backTrace", TRUE)
+#1 [internal function](): CRM_Core_Error::nullHandler(Object(PEAR_Error))
+#2 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/PEAR.php(921): call_user_func((Array:2), Object(PEAR_Error))
+#3 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/PEAR.php(577): PEAR_Error->__construct("Failed to connect socket: Connection timed out", NULL, 16, (Array:2), NULL)
+#4 [internal function](): PEAR::_raiseError(NULL, "Failed to connect socket: Connection timed out")
+#5 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/PEAR.php(237): call_user_func_array((Array:2), (Array:2))
+#6 /home/ubuntu/workspace/sites/all/modules/civicrm/vendor/pear/net_smtp/Net/SMTP.php(452): PEAR::__callStatic("raiseError", (Array:1))
+#7 /home/ubuntu/workspace/sites/all/modules/civicrm/vendor/pear/net_smtp/Net/SMTP.php(452): PEAR::raiseError("Failed to connect socket: Connection timed out")
+#8 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/Mail/smtp.php(372): Net_SMTP->connect(30)
+#9 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/Mail/smtp.php(255): Mail_smtp->getSMTPObject()
+#10 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Admin/Form/Setting/Smtp.php(171): Mail_smtp->send("adam.wheeler@boston.gov", (Array:3), "SMTP settings are correct.")
+#11 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Form.php(447): CRM_Admin_Form_Setting_Smtp->postProcess()
+#12 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/QuickForm/Action/Refresh.php(75): CRM_Core_Form->mainProcess()
+#13 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/HTML/QuickForm/Controller.php(203): CRM_Core_QuickForm_Action_Refresh->perform(Object(CRM_Admin_Form_Setting_Smtp), "refresh")
+#14 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/HTML/QuickForm/Page.php(103): HTML_QuickForm_Controller->handle(Object(CRM_Admin_Form_Setting_Smtp), "refresh")
+#15 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Controller.php(351): HTML_QuickForm_Page->handle("refresh")
+#16 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Utils/Wrapper.php(113): CRM_Core_Controller->run()
+#17 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Invoke.php(283): CRM_Utils_Wrapper->run("CRM_Admin_Form_Setting_Smtp", "Outbound Email Settings", NULL)
+#18 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Invoke.php(84): CRM_Core_Invoke::runItem((Array:15))
+#19 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Invoke.php(52): CRM_Core_Invoke::_invoke((Array:4))
+#20 /home/ubuntu/workspace/sites/all/modules/civicrm/drupal/civicrm.module(445): CRM_Core_Invoke::invoke((Array:4))
+#21 [internal function](): civicrm_invoke("admin", "setting", "smtp")
+#22 /home/ubuntu/workspace/includes/menu.inc(527): call_user_func_array("civicrm_invoke", (Array:3))
+#23 /home/ubuntu/workspace/index.php(21): menu_execute_active_handler()
+#24 {main}
+
+
+Dec 06 11:22:21  [info] Ignoring exception thrown by nullHandler: 10001, Failed to connect to smtp.gmail.com:25 [SMTP: Failed to connect socket: Connection timed out (code: -1, response: )]
+
+Dec 06 11:22:21  [info] $backTrace = #0 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Error.php(962): CRM_Core_Error::backtrace("backTrace", TRUE)
+#1 [internal function](): CRM_Core_Error::nullHandler(Object(PEAR_Error))
+#2 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/PEAR.php(921): call_user_func((Array:2), Object(PEAR_Error))
+#3 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/PEAR.php(577): PEAR_Error->__construct("Failed to connect to smtp.gmail.com:25 [SMTP: Failed to connect socket: Conne...", 10001, 16, (Array:2), NULL)
+#4 [internal function](): PEAR::_raiseError(NULL, "Failed to connect to smtp.gmail.com:25 [SMTP: Failed to connect socket: Conne...", 10001)
+#5 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/PEAR.php(237): call_user_func_array((Array:2), (Array:3))
+#6 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/Mail/smtp.php(376): PEAR::__callStatic("raiseError", (Array:2))
+#7 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/Mail/smtp.php(376): PEAR::raiseError("Failed to connect to smtp.gmail.com:25 [SMTP: Failed to connect socket: Conne...", 10001)
+#8 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/Mail/smtp.php(255): Mail_smtp->getSMTPObject()
+#9 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Admin/Form/Setting/Smtp.php(171): Mail_smtp->send("adam.wheeler@boston.gov", (Array:3), "SMTP settings are correct.")
+#10 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Form.php(447): CRM_Admin_Form_Setting_Smtp->postProcess()
+#11 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/QuickForm/Action/Refresh.php(75): CRM_Core_Form->mainProcess()
+#12 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/HTML/QuickForm/Controller.php(203): CRM_Core_QuickForm_Action_Refresh->perform(Object(CRM_Admin_Form_Setting_Smtp), "refresh")
+#13 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/HTML/QuickForm/Page.php(103): HTML_QuickForm_Controller->handle(Object(CRM_Admin_Form_Setting_Smtp), "refresh")
+#14 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Controller.php(351): HTML_QuickForm_Page->handle("refresh")
+#15 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Utils/Wrapper.php(113): CRM_Core_Controller->run()
+#16 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Invoke.php(283): CRM_Utils_Wrapper->run("CRM_Admin_Form_Setting_Smtp", "Outbound Email Settings", NULL)
+#17 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Invoke.php(84): CRM_Core_Invoke::runItem((Array:15))
+#18 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Invoke.php(52): CRM_Core_Invoke::_invoke((Array:4))
+#19 /home/ubuntu/workspace/sites/all/modules/civicrm/drupal/civicrm.module(445): CRM_Core_Invoke::invoke((Array:4))
+#20 [internal function](): civicrm_invoke("admin", "setting", "smtp")
+#21 /home/ubuntu/workspace/includes/menu.inc(527): call_user_func_array("civicrm_invoke", (Array:3))
+#22 /home/ubuntu/workspace/index.php(21): menu_execute_active_handler()
+#23 {main}
+
+
+Dec 06 11:22:21  [info] $Fatal Error Details = Array
+(
+    [callback] => Array
+        (
+            [0] => CRM_Core_Error
+            [1] => handle
+        )
+
+    [code] => 
+    [message] => not connected
+    [mode] => 16
+    [debug_info] => 
+    [type] => PEAR_Error
+    [user_info] => 
+    [to_string] => [pear_error: message="not connected" code=0 mode=callback callback=CRM_Core_Error::handle prefix="" info=""]
+)
+
+
+Dec 06 11:22:21  [info] $backTrace = #0 /home/ubuntu/workspace/sites/all/modules/civicrm/CRM/Core/Error.php(232): CRM_Core_Error::backtrace("backTrace", TRUE)
+#1 [internal function](): CRM_Core_Error::handle(Object(PEAR_Error))
+#2 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/PEAR.php(921): call_user_func((Array:2), Object(PEAR_Error))
+#3 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/PEAR.php(577): PEAR_Error->__construct("not connected", NULL, 16, (Array:2), NULL)
+#4 [internal function](): PEAR->_raiseError(Object(Net_Socket), "not connected")
+#5 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/PEAR.php(224): call_user_func_array((Array:2), (Array:2))
+#6 /home/ubuntu/workspace/sites/all/modules/civicrm/vendor/pear/net_socket/Net/Socket.php(385): PEAR->__call("raiseError", (Array:1))
+#7 /home/ubuntu/workspace/sites/all/modules/civicrm/vendor/pear/net_socket/Net/Socket.php(385): Net_Socket->raiseError("not connected")
+#8 /home/ubuntu/workspace/sites/all/modules/civicrm/vendor/pear/net_smtp/Net/SMTP.php(262): Net_Socket->write("QUIT\r\n")
+#9 /home/ubuntu/workspace/sites/all/modules/civicrm/vendor/pear/net_smtp/Net/SMTP.php(300): Net_SMTP->_send("QUIT\r\n")
+#10 /home/ubuntu/workspace/sites/all/modules/civicrm/vendor/pear/net_smtp/Net/SMTP.php(491): Net_SMTP->_put("QUIT")
+#11 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/Mail/smtp.php(421): Net_SMTP->disconnect()
+#12 /home/ubuntu/workspace/sites/all/modules/civicrm/packages/Mail/smtp.php(218): Mail_smtp->disconnect()
+#13 [internal function](): Mail_smtp->_Mail_smtp()
+#14 {main}
+
+
+Dec 06 13:31:04  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 13:31:04  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 13:31:04  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 13:31:04  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 13:31:08  [warning] Deprecated function, use CRM_Core_PseudoConstant::getLabel
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 13:31:15  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 13:31:15  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 13:31:15  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 13:31:15  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 13:31:18  [warning] Deprecated function, use CRM_Core_PseudoConstant::getLabel
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 16:47:15  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 16:47:15  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 16:47:16  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 16:47:16  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 16:47:16  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 16:47:16  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 16:47:16  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 16:47:16  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 16:48:39  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 16:48:39  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 16:48:39  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 16:48:39  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 16:48:39  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 16:48:39  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 16:48:39  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 16:48:39  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 16:48:39  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 16:48:39  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 16:49:24  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 16:49:24  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 16:51:51  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 16:51:51  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 16:51:51  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 16:51:51  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 16:51:58  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 16:51:58  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 16:51:58  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 16:51:58  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 16:52:27  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 16:52:27  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 16:52:27  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 16:52:27  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 16:52:27  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 16:52:27  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 16:52:54  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 16:52:54  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 16:52:54  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 16:52:54  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 16:52:54  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 16:52:54  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 16:53:21  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 16:53:21  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 16:53:21  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 16:53:21  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 16:53:21  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 16:53:21  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 16:53:26  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 16:53:26  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 16:53:26  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 16:53:26  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 16:53:26  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Dec 06 16:53:26  [warning] Deprecated function, use CRM_Core_PseudoConstant::getKey
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
